@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: ekoeryanto/vuepress-netlify-cms
+  name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "docs/.vuepress/public/images"
 public_folder: "docs/.vuepress/dist/"

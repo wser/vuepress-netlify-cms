@@ -1,3 +1,6 @@
 [build]
   command = "yarn docs:build"
   publish = "docs/.vuepress/dist/"
+[build.environment]
+  NODE_VERSION = "8"
+  NPM_VERSION = "1.9.4"
