@@ -15,7 +15,7 @@ module.exports = {
     nav: [
       {
         text: 'Admin',
-        link: '/admin/#/',
+        link: '/admin/',
       }
     ]
   }
