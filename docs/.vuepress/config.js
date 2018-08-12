@@ -1,6 +1,9 @@
 module.exports = {
   title: 'Netlify CMS + VuePress',
   description: 'Netlify + VuePress',
+  head: [
+    ['script', { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }]
+  ],
   themeConfig: {
     docsDir: 'docs',
     repo: 'ekoeryanto/vuepress-netlify-cms',
