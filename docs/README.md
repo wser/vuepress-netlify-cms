@@ -1,4 +1,5 @@
 ---
 title: Halo!
 ---
-Dunia dalam jaringan
+Hello from my site
+>[src:](https://www.vuejsradar.com/vuepress-netlify-cms-integration/)
